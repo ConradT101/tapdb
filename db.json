@@ -92,4 +92,80 @@
       "ClientName": "Gracenote, Inc."
     }
   ]
+},
+{
+"Skill": [
+	{
+		"SkillID": 1,
+		"SkillDescription": "Java",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 2,
+		"SkillDescription": "Selenium",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 3,
+		"SkillDescription": "QTP",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 4,
+		"SkillDescription": "QA Lead",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 5,
+		"SkillDescription": "Agile",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 6,
+		"SkillDescription": "Jenkins",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 7,
+		"SkillDescription": "Ruby on Rails",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 8,
+		"SkillDescription": "SQL",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 9,
+		"SkillDescription": "Project Management",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 10,
+		"SkillDescription": ".NET",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 11,
+		"SkillDescription": "UI Qa",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	},
+	{
+		"SkillID": 12,
+		"SkillDescription": "JMeter",
+		"CreatedDateTime": "2020-05-29T10:01:23.407",
+		"UpdateDateTime": "2020-05-29T10:01:23.407"
+	}
+	]
 }
